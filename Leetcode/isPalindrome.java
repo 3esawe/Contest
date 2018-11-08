@@ -2,7 +2,7 @@ package Leetcode;
 
 public class isPalindrome {
     public static void main(String[] args) {
-        boolean  c = isPal("madam");
+        boolean  c = isPal("babad");
         System.out.println(c);
     }
     public static boolean isPal(String v){
